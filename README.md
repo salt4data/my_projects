@@ -1,2 +1,2 @@
-# my_projects
-My collection of personal and academic projects
+#predictive modeling
+Regression analysis, Bayesian, ML, multivariate analysis projects
